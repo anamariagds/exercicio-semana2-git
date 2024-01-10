@@ -1,4 +1,4 @@
-##Exercicio modulo 2 do curso desvendando o GitHub
+#Exercicio modulo 2 do curso desvendando o GitHub
 
 ***Pagina HTML com imagem de gatinho***
 
